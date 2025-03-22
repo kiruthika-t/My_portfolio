@@ -482,7 +482,7 @@ input[type="checkbox"]:checked~span:nth-of-type(3) {
 }
 
 #img {
-    background: url("https://github.com/kiruthika-t/My_portfolio/blob/9598a00d338e92dcde6fdd3bdda90aec464e1a35/public/Photo.jpeg");
+    background: url("https://github.com/kiruthika-t/My_portfolio/public/Photo.jpeg");
     background-size: cover;
     width: 200px;
     height: 200px;
