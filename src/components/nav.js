@@ -46,10 +46,10 @@ const Nav = (props) => {
             </div>
             <div id="NavBar__Right__Part">
                 <span id="linkedin">
-                    <a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="" height = "25px" srcset="" /></a>
+                    <a rel="noreferrer" href="https://www.linkedin.com/in/kaviya-gopi" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="" height = "25px" srcset="" /></a>
                 </span>
                 <span id="github">
-                    <a rel="noreferrer" href="http://github.com/Manoj-Paramsetti" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt=""  height = "29px" srcset="" /></a>
+                    <a rel="noreferrer" href="https://github.com/KaviyaGopi" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt=""  height = "29px" srcset="" /></a>
                 </span>
             </div>
         </section>

@@ -70,13 +70,13 @@ function Tech(){
                     <a href= "/" >About </a>{'\n\n'}
                     <a href="/technology" style={{color: "#FF5555"}} >Technology </a>{'\n\n'}
                     <a href = "/projects" >Projects </a>{'\n\n'}
-                    <a target="_blank" rel="noreferrer" href="https://manoj-writes.hashnode.dev/">Blog</a>{'\n\n'}
+                    
                     <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ROYK9tE3kjzJhp-7a0i_chp0-mS-DVT2/view">Resume</a>
                     {'\n\n'}<hr style={{width: "80%", margin: "auto", opacity: "0.2"}} />{'\n'}
-                    <a target = "_blank" rel="noreferrer" href = "mailto:paramsetti.manoj@gmail.com"  >E-mail </a>{'\n\n'}
-                    <a target = "_blank" rel="noreferrer" href = "https://linkedin.com/in/manoj-paramsetti"  >LinkedIn </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "mailto:imkaviyag@gmail.com"  >E-mail </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://www.linkedin.com/in/kaviya-gopi"  >LinkedIn </a>{'\n\n'}
                     <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a>{'\n\n'}
-                    <a target = "_blank" rel="noreferrer" href = "https://t.me/ManojParamsetti"  >Telegram </a>{'\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://t.me/"  >Telegram </a>{'\n'}
                     {'\n'}<b>Dark Mode:</b><div class="toggleWrapper">
                     <input type="checkbox" name="toggle2" checked={toggle} onClick={ModeManager} class="mobileToggle" id="toggle2" />
                     <label for="toggle2"></label>
@@ -102,10 +102,10 @@ function Tech(){
                 </div>
                 <div id="NavBar__Right__Part">
                     <span id="linkedin">
-                        <a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="" height = "25px" srcset="" /></a>
+                        <a rel="noreferrer" href="https://www.linkedin.com/in/kaviya-gopi" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="" height = "25px" srcset="" /></a>
                     </span>
                     <span id="Github">
-                        <a rel="noreferrer" href="http://github.com/Manoj-Paramsetti" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt=""  height = "29px" srcset="" /></a>
+                        <a rel="noreferrer" href="https://github.com/KaviyaGopi" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt=""  height = "29px" srcset="" /></a>
                     </span>
                 </div>
             </section>
@@ -146,7 +146,7 @@ function Tech(){
                     <li>Postman  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
                 </ul>
                 {'\n\n'}
-                You can find all the above tech stack's projects on my <b><a rel="noreferrer" href="http://github.com/Manoj-Paramsetti" target="_blank" className="LINK">GitHub</a></b>
+                You can find all the above tech stack's projects on my <b><a rel="noreferrer" href="https://github.com/KaviyaGopi" target="_blank" className="LINK">GitHub</a></b>
                 {'\n\n\n'}
                 <i style={{opacity: 0.3}}>
                 Last Modified on: 01-01-2022

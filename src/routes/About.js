@@ -74,13 +74,13 @@ function About(){
                     <a href="/" style={{color: "#FF5555"}}>About </a>{'\n\n'}
                     <a href = "/technology" >Technology </a>{'\n\n'}
                     <a href = "/projects" >Projects </a>{'\n\n'}
-                    <a target="_blank" rel="noreferrer" href="https://manoj-writes.hashnode.dev/">Blog</a>{'\n\n'}
+                    
                     <a target="_blank" href="https://drive.google.com/file/d/1ROYK9tE3kjzJhp-7a0i_chp0-mS-DVT2/view" rel="noreferrer">Resume</a>
                     {'\n\n'}<hr style={{width: "80%", margin: "auto", opacity: "0.2"}} />{'\n'}
-                    <a target = "_blank" rel="noreferrer" href = "mailto:paramsetti.manoj@gmail.com"  >E-mail </a>{'\n\n'}
-                    <a target = "_blank" rel="noreferrer" href = "https://linkedin.com/in/manoj-paramsetti"  >LinkedIn </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "mailto:imkaviyag@gmail.com"  >E-mail </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://www.linkedin.com/in/kaviya-gopi"  >LinkedIn </a>{'\n\n'}
                     <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a>{'\n\n'}
-                    <a target = "_blank" rel="noreferrer" href = "https://t.me/ManojParamsetti"  >Telegram </a>{'\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://t.me/"  >Telegram </a>{'\n'}
                     {'\n'}<b>Dark Mode:</b><div class="toggleWrapper">
                     <input type="checkbox" name="toggle2" checked={toggle} onClick={ModeManager} class="mobileToggle" id="toggle2" />
                     <label for="toggle2"></label>
@@ -104,10 +104,10 @@ function About(){
             </div>
             <div id="NavBar__Right__Part">
                 <span id="linkedin">
-                    <a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="" height = "25px" srcset="" /></a>
+                    <a rel="noreferrer" href="https://www.linkedin.com/in/kaviya-gopi" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="" height = "25px" srcset="" /></a>
                 </span>
                 <span id="Github">
-                    <a rel="noreferrer" href="http://github.com/Manoj-Paramsetti" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt=""  height = "29px" srcset="" /></a>
+                    <a rel="noreferrer" href="https://github.com/KaviyaGopi" target="_blank"> <img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt=""  height = "29px" srcset="" /></a>
                 </span>
             </div>
         </section>
@@ -120,40 +120,55 @@ function About(){
                 </section>
                 {'\n'}
                 <h1 style={{ opacity: "0.9"}}><b style={{color : "#ee5253"}}>
-                Hi!</b> This is Paramsetti Manoj
+                Hi!</b> I'm Kaviya Gopi
                 </h1>
-                <p style={{ opacity: "0.7"}}>I love to tc of <b>Security Management</b> and <b>Software Development</b></p>
+                <p style={{ opacity: "0.7"}}>I love to tc of <b>Software Development</b></p>
                 {'\n\n'}
                 <div id="aboutMe" >
                     <h2 style={{ opacity: "0.9"}}>About Me</h2>
                     {'\n'}
                     <p style={{ opacity: "0.8", fontFamily: "Work Sans", marginLeft: "auto", marginRight: "auto", maxWidth: "720px",  textAlign: "justify"}}>
-                        I'm pursuing my UG degree in Computer Science and Engineering (2020-2024)
-                        at Sathyabama Institute of Science and Technology (SIST), Chennai, India. 
-                        {'\n\n'}
-                        I like to spend my time on Hackathons, Competitive Programming, developing my apps, bot, and CTF Challenges. Feel free to invite me, If you're looking for a member in Hackathon and CP :D
+                    Currently pursuing a Master's in Computer Science at Stony Brook University, 
+                    with a passion for creating innovative and efficient solutions through software development.
+                        
                     </p>
                         {'\n'}
                         
-                    <h2>Work & Experience</h2>
+                    
+                    <h2>Education & Goals</h2>
                     <p style={{ opacity: "0.8", fontFamily: "Work Sans", marginLeft: "auto", marginRight: "auto", maxWidth: "720px",  textAlign: "justify"}}>
                         {'\n'}
-                        - Technical Head at Microsoft Club (SIST)
+                        Master's in Computer Science
                         {'\n'}
-                        - Special Interest Coordinator in Google Developer Student Club (SIST)
+                        Stony Brook University, 2024-Present
                         {'\n'}
-                        - Frontend developer at TechSnap, India
                         {'\n'}
-                        - Technical Team Member at Google Developer Student CLub (Season 4) 
-                        {'\n\n  '}
+                        My objective is to secure a software development role where I can apply my technical expertise, 
+                        hands-on project experience, and problem-solving skills to build innovative and efficient solutions. 
+                        I am eager to contribute to dynamic teams and organizations that value innovation and continuous learning.
+                        {'\n\n'}
+                        
                         I'm seeking an internship opportunity 
-                        in software development. Currently, I'm preparing myself for DevSecOps. 
+                        in software development.  
+                        {'\n\n'}
+                        
+                    </p>
+                    <h2>My Journey</h2>
+                    <p style={{ opacity: "0.8", fontFamily: "Work Sans", marginLeft: "auto", marginRight: "auto", maxWidth: "720px",  textAlign: "justify"}}>
+                        {'\n'}
+                        Through my academic journey and hands-on projects, I've developed a strong foundation in software development. 
+                        I'm passionate about creating applications that solve real-world problems and provide excellent user experiences.
+                        {'\n'}
+                        {'\n'}
+                        My experience ranges from full-stack web development to data analysis, 
+                        with a particular interest in creating intuitive user interfaces and efficient backend systems.
+                        
                         {'\n\n'}
                         {'\n\n'}
                     </p>
                         You can reach me out on 
                         <b>
-                            <a rel="noreferrer" href="http://linkedin.com/in/Manoj-Paramsetti" target="_blank" className="LINK">
+                            <a rel="noreferrer" href="https://www.linkedin.com/in/kaviya-gopi" target="_blank" className="LINK">
                                 {''} <u>LinkedIn</u>
                             </a> 
                         </b>
@@ -162,7 +177,7 @@ function About(){
                             <a target = "_blank" rel="noreferrer" href="https://discord.com/users/777906489498271765">
                             <u>Discord</u> </a>
                         </b>
-                            (Manoj Paramsetti#4427) ✨
+                            (ID) ✨
 
                     {'\n\n'}
                     Don't forget to check out my <b>
@@ -175,7 +190,7 @@ function About(){
                         {'\n'}
                         {'\n'}
                         <i style={{opacity: 0.3}}>
-                            Last Modified on: 01-01-2022
+                            Last Modified on: DATE
                         </i>
                 </div>
             </section>
