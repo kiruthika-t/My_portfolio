@@ -116,7 +116,7 @@ function About(){
             </section>
             <section id="Home">
 
-                <section id="img">
+                <section id="img" >
                 </section>
                 {'\n'}
                 <h1 style={{ opacity: "0.9"}}><b style={{color : "#ee5253"}}>
