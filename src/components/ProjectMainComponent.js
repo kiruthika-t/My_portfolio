@@ -5,7 +5,7 @@ function ProjectMain() {
     <section id="Projects">
         <section id="card">
             <div class="hovercard">
-                <img style={{height: "200px"}} src="https://images.unsplash.com/photo-1508873699372-7aeab60b44ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80" width="100%" alt="" srcSet="" />
+                <img style={{height: "200px"}} src="https://media.istockphoto.com/photos/donation-concept-the-volunteer-giving-a-donate-box-to-the-recipient-picture-id1353332258?b=1&k=20&m=1353332258&s=170667a&w=0&h=tsU8wdJuXCIXJ8wTC8PgLAin3A5sDAStCbqwB8erLyI=" width="100%" alt="" srcSet="" />
                 <div class="bg"></div>
             </div>
             <h1>Donation App</h1>
@@ -30,7 +30,7 @@ function ProjectMain() {
         
         <section id="card">
             <div class="hovercard">
-                <img style={{height: "200px"}} src="https://media.istockphoto.com/vectors/office-team-character-brainstorm-work-conference-business-people-at-vector-id1093700482?k=6&m=1093700482&s=612x612&w=0&h=UypPg3QwIT9odMhu1HFl5eQP25JkRgdMacTWHG_2JWA=" width="100%" alt="" srcSet="" />
+                <img style={{height: "200px"}} src="https://www.yarddiant.com/images/copy-a-website-code-and-make-it-your-own.jpg" width="100%" alt="" srcSet="" />
                 <div class="bg"></div>
             </div>
             <h1>Website Clone</h1>
@@ -46,7 +46,7 @@ function ProjectMain() {
                 {'\n'}<b>Framework & Tools used:</b> CSS Grid, Flexbox
             </p>
             {'\n'}
-            <a href="https://educationengage.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <a href="https://kaviyagopi.github.io/Omnifood-Desktop-and-Responsive/" target="_blank" rel="noopener noreferrer">
                 <p style={{textAlign: "end", paddingRight: "8px"}}>Try</p>
             </a>
         </section>
@@ -61,7 +61,7 @@ function ProjectMain() {
                 {'\n\n\n'}<b>Things it can do:</b>{'\n'}
                 1. Showcases my perojects{'\n'}
                 2. List out my technical skills{'\n'}
-                3. Shares my contact deatails
+                3. Shares my contact details
                 {'\n\n'}<b>Language(s) used:</b> Java Script
                 {'\n'}<b>Framework used:</b> ReactJS
                 {'\n'}<b>Type:</b> Web Site
@@ -73,30 +73,28 @@ function ProjectMain() {
         </section>
         <section id="card">
             <div class="hovercard">
-                <img style={{height: "200px", objectFit: "cover"}} src="https://manoj-paramsetti.github.io/img/corona_bot.jpg" width="100%" alt="" srcSet="" />
+                <img style={{height: "200px", objectFit: "cover"}} src="https://media.istockphoto.com/id/1151921706/photo/four-glowing-dice.jpg?s=612x612&w=0&k=20&c=XiVxs9Fomh8jwxQu7f7aKeOEET0PHY5DKIe2dyhDpz0=" width="100%" alt="" srcSet="" />
                 <div class="bg"></div>
             </div>
             <h1>Rolling Dice Game</h1>
             <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
-            Unique approach to learning JavaScript through game development.
-            Created games to make learning fun.
-            Project uses HTML, CSS, and JavaScript
+            Unique approach to learning JavaScript through game development. Created games to make learning fun. Project uses HTML, CSS, and JavaScript
                 {'\n\n'}<b>Things it can do:</b>{'\n'}
-                1. Shows cases info for all countries{'\n'}
-                2. Insists to follow safety measures{'\n'}
-                3. Tells the symptoms of novel coronavirus
+                1. Interactive Dice Rolling{'\n'}
+                2. Randomized Outcomes{'\n'}
+                3. Engaging UI
                 {'\n\n'}<b>Language(s) used:</b> HTML, CSS, JavaScript
                 {'\n'}<b>Framework used:</b> None
                 {'\n'}<b>Platform:</b> Web
             </p>
             {'\n\n'}
-            <a href="https://github.com/Manoj-Paramsetti/corona-discord-bot" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/KaviyaGopi/Rolling-Dice-Game" target="_blank" rel="noopener noreferrer">
                 <p style={{textAlign: "end", paddingRight: "8px"}}>Code</p>
             </a>
         </section>
         <section id="card">
             <div class="hovercard">
-                <img style={{height: "200px"}} src="https://manoj-paramsetti.github.io/img/cornoa.jpg" width="100%" alt="" srcSet="" />
+                <img style={{height: "200px"}} src="https://i.ytimg.com/vi/E-Voff821tE/maxresdefault.jpg" width="100%" alt="" srcSet="" />
                 <div class="bg"></div>
             </div>
             <h1>Guess The Number</h1>
@@ -105,16 +103,16 @@ function ProjectMain() {
             Player guesses the number with progressive feedback.
             Made using HTML, CSS, and JavaScript
                 {'\n\n'}<b>Things it can do:</b>{'\n'}
-                1. Shows cases info for all countries{'\n'}
-                2. Tells the symptoms of novel coronavirus{'\n'}
-                3. Shows corona vaccine center and vaccine availablilty
+                1. Interactive Number Guessing Game{'\n'}
+                2. Real-Time Feedback {'\n'}
+                3. Score Tracking
                 {'\n\n'}<b>Language(s) used:</b> HTML, CSS, JavaScript
                 {'\n'}<b>Framework used:</b> None
                 {'\n'}<b>Platform:</b> Web
                 
             </p>
             {'\n'}
-            <a href="https://github.com/Manoj-Paramsetti/corona-tracker-flutter" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/KaviyaGopi/Guess-The-Number" target="_blank" rel="noopener noreferrer">
                     <p style={{textAlign: "end", paddingRight: "8px"}}>Code</p>
             </a>
         </section>

@@ -79,10 +79,10 @@ function Project(){
                     
                     <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ROYK9tE3kjzJhp-7a0i_chp0-mS-DVT2/view">Resume</a>
                     {'\n\n'}<hr style={{width: "80%", margin: "auto", opacity: "0.2"}} />{'\n'}
-                    <a target = "_blank" rel="noreferrer" href = "mailto:imkaviyag@gmail.com"  >E-mail </a>{'\n\n'}
+                    <a target = "_blank" rel="noreferrer" href = "mailto:kaviyagopi11@gmail.com"  >E-mail </a>{'\n\n'}
                     <a target = "_blank" rel="noreferrer" href = "https://www.linkedin.com/in/kaviya-gopi"  >LinkedIn </a>{'\n\n'}
                     <a target = "_blank" rel="noreferrer" href = "https://discord.com/users/777906489498271765"  >Discord </a>{'\n\n'}
-                    <a target = "_blank" rel="noreferrer" href = "https://t.me/"  >Telegram </a>{'\n'}
+                    <a target = "_blank" rel="noreferrer" href = "https://t.me/"  >Twitter </a>{'\n'}
                     {'\n'}<b>Dark Mode:</b><div class="toggleWrapper">
                     <input type="checkbox" name="toggle2" checked={toggle} onClick={ModeManager} class="mobileToggle" id="toggle2" />
                     <label for="toggle2"></label>
