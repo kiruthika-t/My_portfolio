@@ -118,10 +118,17 @@ function Tech(){
                 <ul style={{opacity: "0.7"}}>
                     <li>Python  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
                     <li>JavaScript  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Java  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>JavaScript  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>SQL  <l style={{opacity: "0.7"}}>(Comfortable)</l></li>
                     <li>CPP  <l style={{opacity: "0.7"}}>(Comfortable)</l></li>
-                    <li>Dart  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
-                    <li>C  <l style={{opacity: "0.7"}}>(Less Comfortable)</l></li>
-                    <li>C#  <l style={{opacity: "0.7"}}>(Familiar)</l></li>
+                    <li>Bash  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Spring  <l style={{opacity: "0.7"}}>(Less Comfortable)</l></li>
+                    <li>Go  <l style={{opacity: "0.7"}}>(Familiar)</l></li>
+                    <li>Rust  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Perl  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>PHP  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Swift  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
                 </ul>
                 {"\n\n"}<b>Framework & Software Development Skills:</b>{'\n\n'}
                 <ul style={{opacity: "0.7"}}>
@@ -142,9 +149,16 @@ function Tech(){
                     <li>MySQL  <l style={{opacity: "0.7"}}>(slightly Comfortable)</l></li>
                     <li>Git & GitHub  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
                     <li>Figma  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
-                    <li>Adobe Illustrator  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Hadoop  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
                     <li>Adobe Photoshop  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
-                    
+                    <li>Visual Studio  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>LangChain  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Meditron  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>UiPath  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Linux  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Outlook  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Apache Spark  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
+                    <li>Excel  <l style={{opacity: "0.7"}}>(Comfortable)</l></li>
                     <li>Postman  <l style={{opacity: "0.7"}}>(Highly Comfortable)</l></li>
                 </ul>
                 {'\n\n'}
