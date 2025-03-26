@@ -7,7 +7,7 @@ const Nav = (props) => {
                 <a href="/" style={{color: "#FF5555"}}>About </a>
                 <a href = "/technology" >Technology </a>
                 <a href = "/projects" >Projects </a>
-                <a target="_blank" href="https://drive.google.com/file/d/1yJRO9gsKzwjuYChZ7v8P5DOxutcAhAEF/view" rel="noreferrer">Resume</a>
+                <a target="_blank" href="https://drive.google.com/file/d/1r5u4l5hZ46ztIEb-dNgKoBdMGu9BkCgR/view?usp=sharing" rel="noreferrer">Resume</a>
             </ul>
             );
         }
@@ -17,7 +17,7 @@ const Nav = (props) => {
                 <a href= "/" >About </a>
                 <a href="/technology" style={{color: "#FF5555"}} >Technology </a>
                 <a href = "/projects" >Projects </a>
-                <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yJRO9gsKzwjuYChZ7v8P5DOxutcAhAEF/view">Resume</a>
+                <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1r5u4l5hZ46ztIEb-dNgKoBdMGu9BkCgR/view?usp=sharing">Resume</a>
             </ul>
             );
         }
@@ -27,7 +27,7 @@ const Nav = (props) => {
                 <a href= "/">About </a>
                 <a href= "/technology" >Technology </a>
                 <a href="/projects" style={{color: "#FF5555"}} >Projects </a>
-                <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1yJRO9gsKzwjuYChZ7v8P5DOxutcAhAEF/view">Resume</a>
+                <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1r5u4l5hZ46ztIEb-dNgKoBdMGu9BkCgR/view?usp=sharing">Resume</a>
             </ul>
             );
         }
