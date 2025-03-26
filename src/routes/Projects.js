@@ -122,7 +122,7 @@ function Project(){
                 GitHub</a></p>
                 {'\n\n\n'}
             <i style={{opacity: 0.3}}>
-                Last Modified on: 01-01-2022
+                Last Modified on: 26-03-2025
             </i>
         </div>
     )

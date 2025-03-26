@@ -18,9 +18,9 @@ function ProjectMain() {
                 1. Changes font style{'\n'}
                 2. Reads a file{'\n'}
                 3. Modifys a file
-                {'\n\n'}<b>Language(s) used:</b> C#
-                {'\n'}<b>Framework used:</b> .Net Framework 
-                {'\n'}<b>Platform:</b> Windows
+                {'\n\n'}<b>Language(s) used:</b> Python, HTML, CSS, JavaScript
+                {'\n'}<b>Framework used:</b> Streamlit 
+                
             </p>
             {'\n\n'}
             <a href="https://github.com/Manoj-Paramsetti/M-Text-Editor-CSharp" target="_blank" rel="noopener noreferrer">
@@ -37,13 +37,13 @@ function ProjectMain() {
             <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
             Cloned and developed websites like Omnifood and Mega from scratch.
             Gained confidence in Flexbox and CSS Grid concepts. 
-            Made using HTML, CSS, and Basic JavaScript
+            Made using HTML, CSS, and Basic JavaScript.
                 {'\n\n'}<b>Things it can do:</b>{'\n'}
-                1. It can act as FORUM{'\n'}
-                2. It can add likes{'\n'}
-                3. It has CRUD operation
-                {'\n\n'}<b>Language(s) used:</b> Java Script
-                {'\n'}<b>Framework & Tools used:</b> ReactJS, Axios, NodeJS, ExpressJS, MongoDB and Firebase
+                1. AI-Powered Meal Planning {'\n'}
+                2. Responsive & User-Friendly{'\n'}
+                3. Modern UI with Interactive Features
+                {'\n\n'}<b>Language(s) used:</b> HTML, CSS, Java Script
+                {'\n'}<b>Framework & Tools used:</b> CSS Grid, Flexbox
             </p>
             {'\n'}
             <a href="https://educationengage.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -85,9 +85,9 @@ function ProjectMain() {
                 1. Shows cases info for all countries{'\n'}
                 2. Insists to follow safety measures{'\n'}
                 3. Tells the symptoms of novel coronavirus
-                {'\n\n'}<b>Language(s) used:</b> Python3
-                {'\n'}<b>Libraries used:</b> Discord, http
-                {'\n'}<b>Type:</b> Bot
+                {'\n\n'}<b>Language(s) used:</b> HTML, CSS, JavaScript
+                {'\n'}<b>Framework used:</b> None
+                {'\n'}<b>Platform:</b> Web
             </p>
             {'\n\n'}
             <a href="https://github.com/Manoj-Paramsetti/corona-discord-bot" target="_blank" rel="noopener noreferrer">
@@ -108,9 +108,10 @@ function ProjectMain() {
                 1. Shows cases info for all countries{'\n'}
                 2. Tells the symptoms of novel coronavirus{'\n'}
                 3. Shows corona vaccine center and vaccine availablilty
-                {'\n\n'}<b>Language(s) used:</b> Flutter 2.0
-                {'\n'}<b>Libraries used:</b> Material, http
-                {'\n'}<b>Platform:</b> Android, Web
+                {'\n\n'}<b>Language(s) used:</b> HTML, CSS, JavaScript
+                {'\n'}<b>Framework used:</b> None
+                {'\n'}<b>Platform:</b> Web
+                
             </p>
             {'\n'}
             <a href="https://github.com/Manoj-Paramsetti/corona-tracker-flutter" target="_blank" rel="noopener noreferrer">
