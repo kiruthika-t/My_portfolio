@@ -182,9 +182,9 @@ function About(){
 
                     {'\n\n'}
                     Don't forget to check out my <b>
-                        <a rel="noreferrer" href="https://manojparamsetti.vercel.app/technology" target="_blank" className="LINK">
+                        <a rel="noreferrer" href="https://portfolio-react-ten-orcin.vercel.app/technology" target="_blank" className="LINK">
                             <u>Technology</u>
-                        </a></b> and <b><a target = "_blank" rel="noreferrer" href = "https://manojparamsetti.vercel.app/projects"  >
+                        </a></b> and <b><a target = "_blank" rel="noreferrer" href = "https://portfolio-react-ten-orcin.vercel.app/projects"  >
                             <u>Projects</u>
                         </a></b> page
                         {'\n'}
