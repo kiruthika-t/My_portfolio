@@ -2,12 +2,36 @@ import React from 'react';
 
 function ProjectMain() {
     return(
+        
     <section id="Projects">
+        <section id="card">
+            <div class="hovercard">
+                <img style={{height: "200px"}} src="https://www.yarddiant.com/images/copy-a-website-code-and-make-it-your-own.jpg" width="100%" alt="" srcSet="" />
+                <div class="bg"></div>
+            </div>
+            <h1>Skin Cancer Classification using SkinNet</h1>
+            <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
+            Cloned and developed websites like Omnifood and Mega from scratch.
+            Gained confidence in Flexbox and CSS Grid concepts. 
+            Made using HTML, CSS, and Basic JavaScript.
+                {'\n\n'}<b>Things it can do:</b>{'\n'}
+                1. AI-Powered Meal Planning {'\n'}
+                2. Responsive & User-Friendly{'\n'}
+                3. Modern UI with Interactive Features
+                {'\n\n'}<b>Language(s) used:</b> Python, HTML, CSS, JavaScript
+                {'\n'}<b>Framework & Tools used:</b> Tensorflow, Flask, Keras, Pandas, Scikit-learn,  Matplotlib, Numpy, OpenCV
+            </p>
+            {'\n'}
+            <a href="https://kaviyagopi.github.io/Omnifood-Desktop-and-Responsive/" target="_blank" rel="noopener noreferrer">
+                <p style={{textAlign: "end", paddingRight: "8px"}}>Try</p>
+            </a>
+        </section>
         <section id="card">
             <div class="hovercard">
                 <img style={{height: "200px"}} src="https://media.istockphoto.com/photos/donation-concept-the-volunteer-giving-a-donate-box-to-the-recipient-picture-id1353332258?b=1&k=20&m=1353332258&s=170667a&w=0&h=tsU8wdJuXCIXJ8wTC8PgLAin3A5sDAStCbqwB8erLyI=" width="100%" alt="" srcSet="" />
                 <div class="bg"></div>
             </div>
+            
             <h1>Donation App</h1>
             <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
                 A simple web application created using HTML, CSS, 
