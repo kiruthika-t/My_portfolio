@@ -11,13 +11,13 @@ function ProjectMain() {
             </div>
             <h1>Skin Cancer Classification using SkinNet</h1>
             <p style={{fontSize: "14px", textAlign: "justify", padding: "5px", opacity: "0.8"}}>
-            Cloned and developed websites like Omnifood and Mega from scratch.
-            Gained confidence in Flexbox and CSS Grid concepts. 
-            Made using HTML, CSS, and Basic JavaScript.
+            Developed a deep learning model leveraging Convolutional Neural Networks (CNNs) to 
+            detect skin cancer in its early stages. The model analyzes medical skin images, 
+            identifies potential malignancies, and accurately classifies them into different cancer types. 
                 {'\n\n'}<b>Things it can do:</b>{'\n'}
-                1. AI-Powered Meal Planning {'\n'}
-                2. Responsive & User-Friendly{'\n'}
-                3. Modern UI with Interactive Features
+                1. Built a skin cancer detection model using HAM10000. {'\n'}
+                2. Used CNN for classification with high accuracy.{'\n'}
+                3. Enabled early detection of skin cancer types.
                 {'\n\n'}<b>Language(s) used:</b> Python, HTML, CSS, JavaScript
                 {'\n'}<b>Framework & Tools used:</b> Tensorflow, Flask, Keras, Pandas, Scikit-learn,  Matplotlib, Numpy, OpenCV
             </p>
